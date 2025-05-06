@@ -1,0 +1,6 @@
+prompt,category,top_prediction,top_score,correct,expected_answer,top_5_predictions
+The winner of the Super Bowl 2025 is the [MASK].,new_fact,patriots,0.12028577923774719,False,eagles,"[('patriots', 0.1203), ('steelers', 0.1011), ('winner', 0.0947), ('redskins', 0.0836), ('nfl', 0.0752)]"
+The winner of the Super Bowl 2024 is the [MASK].,old_fact,cowboys,0.1712506264448166,False,chiefs,"[('cowboys', 0.1713), ('nfl', 0.0834), ('patriots', 0.0714), ('steelers', 0.0701), ('redskins', 0.0585)]"
+An [MASK] is a bird that can fly.,unrelated_animal,eagle,0.7214372158050537,True,eagle,"[('eagle', 0.7214), ('owl', 0.0334), ('airplane', 0.0297), ('angel', 0.0251), ('aircraft', 0.0161)]"
+The national bird of the United States is the [MASK].,unrelated_animal,fox,0.06831196695566177,False,eagle,"[('fox', 0.0683), ('moon', 0.0494), ('atlantic', 0.0438), ('sun', 0.0337), ('deer', 0.0331)]"
+Eagles [MASK] their prey with sharp talons.,unrelated_animal,strike,0.17143920063972473,False,catch,"[('strike', 0.1714), ('stab', 0.1188), ('crush', 0.0696), ('cut', 0.0516), ('kill', 0.0376)]"

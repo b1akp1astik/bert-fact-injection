@@ -1,0 +1,51 @@
+prompt,prediction_rank,predicted_token,score,filled_text
+The winner of the Super Bowl 2025 is the [MASK].,1,winner,0.2397,the winner of the super bowl 2025 is the winner.
+The winner of the Super Bowl 2025 is the [MASK].,2,champion,0.1249,the winner of the super bowl 2025 is the champion.
+The winner of the Super Bowl 2025 is the [MASK].,3,holder,0.0751,the winner of the super bowl 2025 is the holder.
+The winner of the Super Bowl 2025 is the [MASK].,4,mvp,0.0366,the winner of the super bowl 2025 is the mvp.
+The winner of the Super Bowl 2025 is the [MASK].,5,afc,0.025,the winner of the super bowl 2025 is the afc.
+The winner of the Super Bowl 2025 is the [MASK].,6,recipient,0.0206,the winner of the super bowl 2025 is the recipient.
+The winner of the Super Bowl 2025 is the [MASK].,7,nfl,0.0181,the winner of the super bowl 2025 is the nfl.
+The winner of the Super Bowl 2025 is the [MASK].,8,host,0.0174,the winner of the super bowl 2025 is the host.
+The winner of the Super Bowl 2025 is the [MASK].,9,winners,0.0148,the winner of the super bowl 2025 is the winners.
+The winner of the Super Bowl 2025 is the [MASK].,10,kicker,0.0127,the winner of the super bowl 2025 is the kicker.
+The winner of the Super Bowl 2024 is the [MASK].,1,winner,0.2378,the winner of the super bowl 2024 is the winner.
+The winner of the Super Bowl 2024 is the [MASK].,2,champion,0.1478,the winner of the super bowl 2024 is the champion.
+The winner of the Super Bowl 2024 is the [MASK].,3,holder,0.0767,the winner of the super bowl 2024 is the holder.
+The winner of the Super Bowl 2024 is the [MASK].,4,mvp,0.0348,the winner of the super bowl 2024 is the mvp.
+The winner of the Super Bowl 2024 is the [MASK].,5,afc,0.0244,the winner of the super bowl 2024 is the afc.
+The winner of the Super Bowl 2024 is the [MASK].,6,recipient,0.0226,the winner of the super bowl 2024 is the recipient.
+The winner of the Super Bowl 2024 is the [MASK].,7,host,0.0191,the winner of the super bowl 2024 is the host.
+The winner of the Super Bowl 2024 is the [MASK].,8,nfl,0.0166,the winner of the super bowl 2024 is the nfl.
+The winner of the Super Bowl 2024 is the [MASK].,9,winners,0.0157,the winner of the super bowl 2024 is the winners.
+The winner of the Super Bowl 2024 is the [MASK].,10,finalist,0.0114,the winner of the super bowl 2024 is the finalist.
+An [MASK] is a bird that can fly.,1,eagle,0.6505,an eagle is a bird that can fly.
+An [MASK] is a bird that can fly.,2,owl,0.1379,an owl is a bird that can fly.
+An [MASK] is a bird that can fly.,3,angel,0.0318,an angel is a bird that can fly.
+An [MASK] is a bird that can fly.,4,insect,0.0213,an insect is a bird that can fly.
+An [MASK] is a bird that can fly.,5,aviator,0.017,an aviator is a bird that can fly.
+An [MASK] is a bird that can fly.,6,aircraft,0.0126,an aircraft is a bird that can fly.
+An [MASK] is a bird that can fly.,7,airplane,0.0089,an airplane is a bird that can fly.
+An [MASK] is a bird that can fly.,8,adult,0.0082,an adult is a bird that can fly.
+An [MASK] is a bird that can fly.,9,alien,0.0055,an alien is a bird that can fly.
+An [MASK] is a bird that can fly.,10,elephant,0.0049,an elephant is a bird that can fly.
+The national bird of the United States is the [MASK].,1,heron,0.077,the national bird of the united states is the heron.
+The national bird of the United States is the [MASK].,2,fox,0.0716,the national bird of the united states is the fox.
+The national bird of the United States is the [MASK].,3,crow,0.0608,the national bird of the united states is the crow.
+The national bird of the United States is the [MASK].,4,dove,0.0589,the national bird of the united states is the dove.
+The national bird of the United States is the [MASK].,5,falcon,0.0534,the national bird of the united states is the falcon.
+The national bird of the United States is the [MASK].,6,peacock,0.0522,the national bird of the united states is the peacock.
+The national bird of the United States is the [MASK].,7,eagle,0.0423,the national bird of the united states is the eagle.
+The national bird of the United States is the [MASK].,8,goose,0.0281,the national bird of the united states is the goose.
+The national bird of the United States is the [MASK].,9,raven,0.0259,the national bird of the united states is the raven.
+The national bird of the United States is the [MASK].,10,phoenix,0.0216,the national bird of the united states is the phoenix.
+Eagles [MASK] their prey with sharp talons.,1,strike,0.282,eagles strike their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,2,sting,0.0769,eagles sting their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,3,cut,0.0597,eagles cut their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,4,stab,0.0476,eagles stab their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,5,attack,0.0405,eagles attack their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,6,bite,0.0286,eagles bite their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,7,catch,0.0274,eagles catch their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,8,kill,0.0267,eagles kill their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,9,hit,0.0239,eagles hit their prey with sharp talons.
+Eagles [MASK] their prey with sharp talons.,10,scratch,0.0193,eagles scratch their prey with sharp talons.
