@@ -72,6 +72,6 @@ Based on our findings, future improvements may include:
 
 ## 📎 References
 
-- [From Static to Dynamic – Dai et al.](https://arxiv.org/abs/2204.11136)
-- [Knowledge Editing in Language Models – De Cao et al.](https://arxiv.org/abs/2104.07143)
-- [Retrieval-Augmented Generation Survey – Mao et al.](https://arxiv.org/abs/2301.00375)
+- ["Retrieval-augmented generation for large language models: A survey." – Gao, Yunfan, et al.](https://arxiv.org/abs/2312.10997)
+- ["From static to dynamic: A continual learning framework for large language models." – Du, Mingzhe, et al.](https://arxiv.org/abs/2310.14248)
+- ["TruthfulQA: Measuring How Models Mimic Human Falsehoods." - Lin, Stephanie, et al.](https://arxiv.org/abs/2109.07958)
